@@ -24,8 +24,7 @@ For live-camera-streaming:
 ## Demo
 
 Video1:
-https://user-images.githubusercontent.com/13625416/128558908-25dfbca8-468b-429a-8f46-15f7bf7a788e.mov
-
+![480pgif1](https://user-images.githubusercontent.com/13625416/128559429-6073b878-4b42-4d65-a829-0f9eb9417e9b.gif)
 
 Video2:
 https://user-images.githubusercontent.com/13625416/128559015-80353398-9982-456b-b913-2bb0e5205563.mov
