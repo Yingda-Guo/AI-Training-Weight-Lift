@@ -29,6 +29,7 @@ class poseDetector():
         if self.result.pose_landmarks:
             if draw:
                 self.mpDraw.draw_landmarks(img, self.result.pose_landmarks, self.mpPose.POSE_CONNECTIONS)
+    
     # 获得所有坐标以及清晰度
     def findPosition(self, img, draw = True):
         # landmark lists
@@ -60,6 +61,7 @@ class poseDetector():
 
         # Draw
         if draw:
+            # 好看一点的画图工具
             cv2.line(img, (x1,y1), (x2,y2), (209, 209, 209), 3)
             cv2.line(img, (x2,y2), (x3,y3), (209, 209, 209), 3)
             cv2.circle(img, (x1, y1), 10, (13, 129, 252), cv2.FILLED)
@@ -169,7 +171,7 @@ class poseDetector():
 
 def main():
     # OpenCV video load
-    cap = cv2.VideoCapture("sample.mp4")
+    cap = cv2.VideoCapture("resource/weight_lift.mp4")
     # FPS initial value
     pTime = 0
 
