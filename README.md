@@ -1,6 +1,7 @@
 # AI-Training-Weight-Lift
 
 AI Training Project #1: Weight Lift Counter. The app supports video load and live-camera-streaming. 
+
 ![demo1](https://user-images.githubusercontent.com/13625416/128560715-efa8d10a-57b8-4c55-8d61-2365d552de35.gif)
 ## Environment Setup
 
