@@ -1,4 +1,4 @@
-# AI-Training-Weight-Lift
+# Deep Learning AI Trainer: Weight Lift Counter
 
 AI Training Project #1: Weight Lift Counter. The app supports video load and live-camera-streaming. 
 
